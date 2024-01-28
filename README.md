@@ -1,2 +1,2 @@
-# Resturant-project
+# project
 for system management
